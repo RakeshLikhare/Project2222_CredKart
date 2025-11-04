@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_AddToCartAndCheckout:test_ADDtoCart&checkout.py:17 test_AddToCartAndCheckout005 is start
+[32mINFO    [0m Test_AddToCartAndCheckout:test_ADDtoCart&checkout.py:18 opening the browser
+[32mINFO    [0m Test_AddToCartAndCheckout:test_ADDtoCart&checkout.py:21 click on login link text
+[32mINFO    [0m Test_AddToCartAndCheckout:test_ADDtoCart&checkout.py:23 enter email address
+[32mINFO    [0m Test_AddToCartAndCheckout:test_ADDtoCart&checkout.py:26 enter password
+[32mINFO    [0m Test_AddToCartAndCheckout:test_ADDtoCart&checkout.py:29 click on login button
+[32mINFO    [0m Test_AddToCartAndCheckout:test_ADDtoCart&checkout.py:32 select the mack laptop as a product

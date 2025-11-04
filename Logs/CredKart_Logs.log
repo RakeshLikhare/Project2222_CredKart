@@ -413,3 +413,10 @@
 2025-11-04 13:46:12,283 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 74 : validate checkout done or not
 2025-11-04 13:46:12,370 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 77 : test_AddToCartAndCheckout005 is done
 2025-11-04 13:46:12,370 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 78 : test_AddToCartAndCheckout005 is end
+2025-11-04 14:19:05,568 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 17 : test_AddToCartAndCheckout005 is start
+2025-11-04 14:19:05,569 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 18 : opening the browser
+2025-11-04 14:19:05,570 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 21 : click on login link text
+2025-11-04 14:19:06,610 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 23 : enter email address
+2025-11-04 14:19:06,864 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 26 : enter password
+2025-11-04 14:19:07,080 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 29 : click on login button
+2025-11-04 14:19:07,232 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 32 : select the mack laptop as a product
