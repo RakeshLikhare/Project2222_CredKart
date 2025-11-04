@@ -1,0 +1,1 @@
+pytest -v -s --disable-warnings -m "group2" --browser firefox --html=HTMLReports/xyzB.html -n=2 --alluredir="AllureReports"

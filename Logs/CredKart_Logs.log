@@ -1,0 +1,387 @@
+2025-10-26 12:59:13,601 : DEBUG : Test_CredLogin : test_CredKart_url_001 : 14 : this is debug
+2025-10-26 12:59:13,616 : INFO : Test_CredLogin : test_CredKart_url_001 : 15 : this is info
+2025-10-26 12:59:13,616 : WARNING : Test_CredLogin : test_CredKart_url_001 : 16 : this is warning
+2025-10-26 12:59:13,616 : ERROR : Test_CredLogin : test_CredKart_url_001 : 17 : this is error
+2025-10-26 12:59:13,616 : CRITICAL : Test_CredLogin : test_CredKart_url_001 : 18 : this is critical
+2025-10-26 12:59:13,616 : CRITICAL : Test_CredLogin : test_CredKart_url_001 : 20 : test_CredKart_url_001 is start
+
+2025-10-26 13:02:15,415 : INFO : Test_CredLogin : test_CredKart_url_001 : 15 : this is info
+2025-10-26 13:02:15,415 : WARNING : Test_CredLogin : test_CredKart_url_001 : 16 : this is warning
+2025-10-26 13:02:15,415 : ERROR : Test_CredLogin : test_CredKart_url_001 : 17 : this is error
+2025-10-26 13:02:15,415 : CRITICAL : Test_CredLogin : test_CredKart_url_001 : 18 : this is critical
+2025-10-26 13:02:15,415 : CRITICAL : Test_CredLogin : test_CredKart_url_001 : 20 : test_CredKart_url_001 is start
+
+2025-10-26 13:10:07,729 : CRITICAL : Test_CredLogin : test_CredKart_url_001 : 18 : this is critical
+2025-10-26 13:10:07,729 : CRITICAL : Test_CredLogin : test_CredKart_url_001 : 20 : test_CredKart_url_001 is start
+
+2025-10-26 13:40:55,823 : INFO : Test_CredLogin : test_CredKart_url_001 : 20 : test_CredKart_url_001 is start
+2025-10-26 13:40:55,827 : INFO : Test_CredLogin : test_CredKart_url_001 : 21 : opening the browser
+2025-10-26 13:40:55,827 : INFO : Test_CredLogin : test_CredKart_url_001 : 23 : captured the page title
+2025-10-26 13:40:55,849 : INFO : Test_CredLogin : test_CredKart_url_001 : 25 : taking screenshot
+2025-10-26 13:40:56,217 : INFO : Test_CredLogin : test_CredKart_url_001 : 27 : test_CredKart_url_001 is pass
+2025-10-26 13:40:56,217 : INFO : Test_CredLogin : test_CredKart_url_001 : 34 : test_CredKart_url_001 is end
+2025-10-26 13:40:56,217 : INFO : Test_CredLogin : test_CredKart_url_001 : 35 : browser closed
+2025-10-26 13:41:05,911 : INFO : Test_CredLogin : test_CredKart_Login_002 : 39 : test_CredKart_Login_002 is start
+2025-10-26 13:41:05,911 : INFO : Test_CredLogin : test_CredKart_Login_002 : 40 : opening the browser
+2025-10-26 13:41:07,038 : INFO : Test_CredLogin : test_CredKart_Login_002 : 46 : entering the email
+2025-10-26 13:41:07,295 : INFO : Test_CredLogin : test_CredKart_Login_002 : 48 : entering the password
+2025-10-26 13:41:07,454 : INFO : Test_CredLogin : test_CredKart_Login_002 : 50 : click on login button
+2025-10-26 13:41:09,941 : INFO : Test_CredLogin : test_CredKart_Login_002 : 53 : validate login status
+2025-10-26 13:41:09,967 : INFO : Test_CredLogin : test_CredKart_Login_002 : 55 : taking screenshot
+2025-10-26 13:41:10,185 : INFO : Test_CredLogin : test_CredKart_Login_002 : 57 : click on dropdown menu
+2025-10-26 13:41:10,301 : INFO : Test_CredLogin : test_CredKart_Login_002 : 59 : click on logout button
+2025-10-26 13:41:10,406 : INFO : Test_CredLogin : test_CredKart_Login_002 : 62 : test_CredKart_Login_002 is pass
+2025-10-26 13:41:10,406 : INFO : Test_CredLogin : test_CredKart_Login_002 : 71 : test_CredKart_Login_002 is end
+2025-10-26 13:41:10,406 : INFO : Test_CredLogin : test_CredKart_Login_002 : 72 : browser closed
+
+2025-10-26 16:47:21,738 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 11 : test_CredKart_Login_params_003 is start
+2025-10-26 16:47:21,738 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 12 : opening the browser
+2025-10-26 16:47:22,985 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 18 : entering the email
+2025-10-26 16:47:23,438 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 20 : entering the password
+2025-10-26 16:47:23,566 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 22 : click on login button
+2025-10-26 16:47:26,022 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 25 : validate login status
+2025-10-26 16:47:26,055 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 27 : taking screenshot
+2025-10-26 16:47:26,433 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 29 : click on dropdown menu
+2025-10-26 16:47:26,549 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 31 : click on logout button
+2025-10-26 16:47:26,660 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 34 : test_CredKart_Login_params_003 is pass
+2025-10-26 16:47:26,660 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 58 : test_CredKart_Login_002 is end
+2025-10-26 16:47:26,660 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 59 : browser closed
+2025-10-26 16:47:34,674 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 11 : test_CredKart_Login_params_003 is start
+2025-10-26 16:47:34,674 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 12 : opening the browser
+2025-10-26 16:47:35,677 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 18 : entering the email
+2025-10-26 16:47:35,923 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 20 : entering the password
+2025-10-26 16:47:36,136 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 22 : click on login button
+2025-10-26 16:47:37,414 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 25 : validate login status
+2025-10-26 16:47:37,485 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 52 : taking screenshot
+2025-10-26 16:47:37,633 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 55 : test_CredKart_Login_params_003 is fail
+2025-10-26 16:47:37,633 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 58 : test_CredKart_Login_002 is end
+2025-10-26 16:47:37,633 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 59 : browser closed
+2025-10-26 16:47:45,260 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 11 : test_CredKart_Login_params_003 is start
+2025-10-26 16:47:45,260 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 12 : opening the browser
+2025-10-26 16:47:46,442 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 18 : entering the email
+2025-10-26 16:47:46,614 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 20 : entering the password
+2025-10-26 16:47:46,776 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 22 : click on login button
+2025-10-26 16:47:46,915 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 25 : validate login status
+2025-10-26 16:47:48,153 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 52 : taking screenshot
+2025-10-26 16:47:48,327 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 55 : test_CredKart_Login_params_003 is fail
+2025-10-26 16:47:48,327 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 58 : test_CredKart_Login_002 is end
+2025-10-26 16:47:48,327 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 59 : browser closed
+2025-10-26 16:47:55,567 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 11 : test_CredKart_Login_params_003 is start
+2025-10-26 16:47:55,567 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 12 : opening the browser
+2025-10-26 16:47:56,407 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 18 : entering the email
+2025-10-26 16:47:56,586 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 20 : entering the password
+2025-10-26 16:47:56,695 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 22 : click on login button
+2025-10-26 16:47:56,833 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 25 : validate login status
+2025-10-26 16:47:58,104 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 52 : taking screenshot
+2025-10-26 16:47:58,278 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 55 : test_CredKart_Login_params_003 is fail
+2025-10-26 16:47:58,278 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 58 : test_CredKart_Login_002 is end
+2025-10-26 16:47:58,278 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 59 : browser closed
+
+2025-10-26 16:50:10,114 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 11 : test_CredKart_Login_params_003 is start
+2025-10-26 16:50:10,125 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 12 : opening the browser
+2025-10-26 16:50:11,170 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 16 : email is--->rakeshlikhare@gmail.com
+2025-10-26 16:50:11,185 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 17 : password is--->xcM8c6xQvya@VYg
+2025-10-26 16:50:11,185 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 18 : entering the email
+2025-10-26 16:50:11,469 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 20 : entering the password
+2025-10-26 16:50:11,626 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 22 : click on login button
+2025-10-26 16:50:14,017 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 25 : validate login status
+2025-10-26 16:50:14,089 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 27 : taking screenshot
+2025-10-26 16:50:14,313 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 29 : click on dropdown menu
+2025-10-26 16:50:14,424 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 31 : click on logout button
+2025-10-26 16:50:14,539 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 34 : test_CredKart_Login_params_003 is pass
+2025-10-26 16:50:14,539 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 58 : test_CredKart_Login_002 is end
+2025-10-26 16:50:14,539 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 59 : browser closed
+2025-10-26 16:50:21,591 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 11 : test_CredKart_Login_params_003 is start
+2025-10-26 16:50:21,591 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 12 : opening the browser
+2025-10-26 16:50:22,512 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 16 : email is--->rakeshlikhare@gmail.com1
+2025-10-26 16:50:22,512 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 17 : password is--->xcM8c6xQvya@VYg
+2025-10-26 16:50:22,512 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 18 : entering the email
+2025-10-26 16:50:22,796 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 20 : entering the password
+2025-10-26 16:50:22,989 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 22 : click on login button
+2025-10-26 16:50:24,314 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 25 : validate login status
+2025-10-26 16:50:24,381 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 52 : taking screenshot
+2025-10-26 16:50:24,538 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 55 : test_CredKart_Login_params_003 is fail
+2025-10-26 16:50:24,538 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 58 : test_CredKart_Login_002 is end
+2025-10-26 16:50:24,538 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 59 : browser closed
+2025-10-26 16:50:31,545 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 11 : test_CredKart_Login_params_003 is start
+2025-10-26 16:50:31,545 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 12 : opening the browser
+2025-10-26 16:50:32,677 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 16 : email is--->rakeshlikhare@gmail.com
+2025-10-26 16:50:32,680 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 17 : password is--->xcM8c6xQvya@VYg1
+2025-10-26 16:50:32,680 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 18 : entering the email
+2025-10-26 16:50:32,913 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 20 : entering the password
+2025-10-26 16:50:33,044 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 22 : click on login button
+2025-10-26 16:50:34,482 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 25 : validate login status
+2025-10-26 16:50:34,561 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 52 : taking screenshot
+2025-10-26 16:50:34,693 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 55 : test_CredKart_Login_params_003 is fail
+2025-10-26 16:50:34,693 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 58 : test_CredKart_Login_002 is end
+2025-10-26 16:50:34,693 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 59 : browser closed
+2025-10-26 16:50:41,332 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 11 : test_CredKart_Login_params_003 is start
+2025-10-26 16:50:41,332 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 12 : opening the browser
+2025-10-26 16:50:42,194 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 16 : email is--->rakeshlikhare@gmail.com1
+2025-10-26 16:50:42,194 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 17 : password is--->xcM8c6xQvya@VYg1
+2025-10-26 16:50:42,200 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 18 : entering the email
+2025-10-26 16:50:42,524 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 20 : entering the password
+2025-10-26 16:50:42,676 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 22 : click on login button
+2025-10-26 16:50:42,795 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 25 : validate login status
+2025-10-26 16:50:44,071 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 52 : taking screenshot
+2025-10-26 16:50:44,147 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 55 : test_CredKart_Login_params_003 is fail
+2025-10-26 16:50:44,147 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 58 : test_CredKart_Login_002 is end
+2025-10-26 16:50:44,147 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 59 : browser closed
+
+2025-10-26 17:02:43,084 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 11 : test_CredKart_Login_params_003 is start
+2025-10-26 17:02:43,084 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 12 : opening the browser
+2025-10-26 17:02:44,399 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 16 : email is--->rakeshlikhare@gmail.com
+2025-10-26 17:02:44,399 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 17 : password is--->xcM8c6xQvya@VYg
+2025-10-26 17:02:44,399 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 18 : entering the email
+2025-10-26 17:02:44,701 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 20 : entering the password
+2025-10-26 17:02:44,841 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 22 : click on login button
+2025-10-26 17:02:47,357 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 25 : validate login status
+2025-10-26 17:02:47,410 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 27 : taking screenshot
+2025-10-26 17:02:47,652 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 29 : click on dropdown menu
+2025-10-26 17:02:47,756 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 31 : click on logout button
+2025-10-26 17:02:47,884 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 34 : test_CredKart_Login_params_003 is pass
+2025-10-26 17:02:47,884 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 58 : test_CredKart_Login_002 is end
+2025-10-26 17:02:47,884 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 59 : browser closed
+2025-10-26 17:02:55,514 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 11 : test_CredKart_Login_params_003 is start
+2025-10-26 17:02:55,514 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 12 : opening the browser
+2025-10-26 17:02:56,480 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 16 : email is--->rakeshlikhare@gmail.com1
+2025-10-26 17:02:56,480 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 17 : password is--->xcM8c6xQvya@VYg
+2025-10-26 17:02:56,480 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 18 : entering the email
+2025-10-26 17:02:56,862 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 20 : entering the password
+2025-10-26 17:02:57,038 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 22 : click on login button
+2025-10-26 17:02:58,426 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 25 : validate login status
+2025-10-26 17:02:58,508 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 52 : taking screenshot
+2025-10-26 17:02:58,719 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 55 : test_CredKart_Login_params_003 is fail
+2025-10-26 17:02:58,719 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 58 : test_CredKart_Login_002 is end
+2025-10-26 17:02:58,719 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 59 : browser closed
+2025-10-26 17:03:06,053 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 11 : test_CredKart_Login_params_003 is start
+2025-10-26 17:03:06,053 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 12 : opening the browser
+2025-10-26 17:03:06,873 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 16 : email is--->rakeshlikhare@gmail.com
+2025-10-26 17:03:06,873 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 17 : password is--->xcM8c6xQvya@VYg1
+2025-10-26 17:03:06,875 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 18 : entering the email
+2025-10-26 17:03:07,086 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 20 : entering the password
+2025-10-26 17:03:07,261 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 22 : click on login button
+2025-10-26 17:03:08,676 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 25 : validate login status
+2025-10-26 17:03:08,738 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 47 : taking screenshot
+2025-10-26 17:03:08,914 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 49 : test_CredKart_Login_params_003 is fail
+2025-10-26 17:03:08,914 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 58 : test_CredKart_Login_002 is end
+2025-10-26 17:03:08,914 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 59 : browser closed
+2025-10-26 17:03:15,578 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 11 : test_CredKart_Login_params_003 is start
+2025-10-26 17:03:15,588 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 12 : opening the browser
+2025-10-26 17:03:16,352 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 16 : email is--->rakeshlikhare@gmail.com1
+2025-10-26 17:03:16,352 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 17 : password is--->xcM8c6xQvya@VYg1
+2025-10-26 17:03:16,352 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 18 : entering the email
+2025-10-26 17:03:16,553 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 20 : entering the password
+2025-10-26 17:03:16,697 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 22 : click on login button
+2025-10-26 17:03:16,836 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 25 : validate login status
+2025-10-26 17:03:18,440 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 52 : taking screenshot
+2025-10-26 17:03:18,553 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 55 : test_CredKart_Login_params_003 is fail
+2025-10-26 17:03:18,553 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 58 : test_CredKart_Login_002 is end
+2025-10-26 17:03:18,553 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 59 : browser closed
+2025-10-26 17:08:00,593 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 11 : test_CredKart_Login_params_003 is start
+2025-10-26 17:08:00,593 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 12 : opening the browser
+2025-10-26 17:08:01,368 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 16 : email is--->rakeshlikhare@gmail.com
+2025-10-26 17:08:01,374 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 17 : password is--->xcM8c6xQvya@VYg
+2025-10-26 17:08:01,374 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 18 : entering the email
+2025-10-26 17:08:01,564 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 20 : entering the password
+2025-10-26 17:08:01,732 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 22 : click on login button
+2025-10-26 17:08:04,122 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 25 : validate login status
+2025-10-26 17:08:04,238 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 27 : taking screenshot
+2025-10-26 17:08:04,377 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 29 : click on dropdown menu
+2025-10-26 17:08:04,484 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 31 : click on logout button
+2025-10-26 17:08:04,596 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 34 : test_CredKart_Login_params_003 is pass
+2025-10-26 17:08:04,596 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 58 : test_CredKart_Login_002 is end
+2025-10-26 17:08:04,596 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 59 : browser closed
+2025-10-26 17:08:12,708 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 11 : test_CredKart_Login_params_003 is start
+2025-10-26 17:08:12,712 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 12 : opening the browser
+2025-10-26 17:08:13,476 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 16 : email is--->rakeshlikhare@gmail.com1
+2025-10-26 17:08:13,476 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 17 : password is--->xcM8c6xQvya@VYg
+2025-10-26 17:08:13,476 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 18 : entering the email
+2025-10-26 17:08:13,670 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 20 : entering the password
+2025-10-26 17:08:13,814 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 22 : click on login button
+2025-10-26 17:08:15,134 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 25 : validate login status
+2025-10-26 17:08:15,211 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 52 : taking screenshot
+2025-10-26 17:08:15,309 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 55 : test_CredKart_Login_params_003 is fail
+2025-10-26 17:08:15,309 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 58 : test_CredKart_Login_002 is end
+2025-10-26 17:08:15,309 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 59 : browser closed
+2025-10-26 17:08:21,699 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 11 : test_CredKart_Login_params_003 is start
+2025-10-26 17:08:21,699 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 12 : opening the browser
+2025-10-26 17:08:22,411 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 16 : email is--->rakeshlikhare@gmail.com
+2025-10-26 17:08:22,414 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 17 : password is--->xcM8c6xQvya@VYg1
+2025-10-26 17:08:22,414 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 18 : entering the email
+2025-10-26 17:08:22,616 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 20 : entering the password
+2025-10-26 17:08:22,770 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 22 : click on login button
+2025-10-26 17:08:22,922 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 25 : validate login status
+2025-10-26 17:08:24,227 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 52 : taking screenshot
+2025-10-26 17:08:24,343 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 55 : test_CredKart_Login_params_003 is fail
+2025-10-26 17:08:24,343 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 58 : test_CredKart_Login_002 is end
+2025-10-26 17:08:24,343 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 59 : browser closed
+2025-10-26 17:08:31,402 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 11 : test_CredKart_Login_params_003 is start
+2025-10-26 17:08:31,402 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 12 : opening the browser
+2025-10-26 17:08:32,180 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 16 : email is--->rakeshlikhare@gmail.com1
+2025-10-26 17:08:32,180 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 17 : password is--->xcM8c6xQvya@VYg1
+2025-10-26 17:08:32,180 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 18 : entering the email
+2025-10-26 17:08:32,356 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 20 : entering the password
+2025-10-26 17:08:32,516 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 22 : click on login button
+2025-10-26 17:08:32,647 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 25 : validate login status
+2025-10-26 17:08:33,829 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 52 : taking screenshot
+2025-10-26 17:08:33,987 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 55 : test_CredKart_Login_params_003 is fail
+2025-10-26 17:08:33,987 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 58 : test_CredKart_Login_002 is end
+2025-10-26 17:08:33,987 : INFO : Test_CredLogin_params : test_CredKart_Login_params_003 : 59 : browser closed
+
+2025-10-27 10:36:02,834 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 15 : test_CredKart_Login_DDT_004 is start
+2025-10-27 10:36:02,854 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 16 : opening the browser
+2025-10-27 10:36:02,900 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 21 : row count is-->5
+2025-10-27 10:36:02,900 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 24 : for loop is start with 2nd row credential
+2025-10-27 10:36:05,327 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 32 : email is--->rakeshlikhare@gmail.com
+2025-10-27 10:36:05,328 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 33 : password is--->xcM8c6xQvya@VYg
+2025-10-27 10:36:05,328 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 34 : entering the email
+2025-10-27 10:36:05,803 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 36 : entering the password
+2025-10-27 10:36:05,933 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 38 : click on login button
+2025-10-27 10:36:08,568 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 40 : validate login status
+2025-10-27 10:36:08,648 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 44 : taking screenshot
+2025-10-27 10:36:08,823 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 46 : click on dropdown menu
+2025-10-27 10:36:08,937 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 48 : click on logout button
+2025-10-27 10:36:09,072 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 24 : for loop is start with 3nd row credential
+2025-10-27 10:36:11,421 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 32 : email is--->rakeshlikhare@gmail.com1
+2025-10-27 10:36:11,421 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 33 : password is--->xcM8c6xQvya@Vyg
+2025-10-27 10:36:11,422 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 34 : entering the email
+2025-10-27 10:36:11,678 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 36 : entering the password
+2025-10-27 10:36:11,837 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 38 : click on login button
+2025-10-27 10:36:13,121 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 40 : validate login status
+2025-10-27 10:36:13,215 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 67 : taking screenshot
+2025-10-27 10:36:13,319 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 24 : for loop is start with 4nd row credential
+2025-10-27 10:36:14,054 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 32 : email is--->rakeshlikhare@gmail.com
+2025-10-27 10:36:14,054 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 33 : password is--->xcM8c6xQvya@Vyg1
+2025-10-27 10:36:14,054 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 34 : entering the email
+2025-10-27 10:36:14,243 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 36 : entering the password
+2025-10-27 10:36:14,384 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 38 : click on login button
+2025-10-27 10:36:15,587 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 40 : validate login status
+2025-10-27 10:36:15,687 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 67 : taking screenshot
+2025-10-27 10:36:15,816 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 24 : for loop is start with 5nd row credential
+2025-10-27 10:36:16,489 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 32 : email is--->rakeshlikhare@gmail.com1
+2025-10-27 10:36:16,489 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 33 : password is--->xcM8c6xQvya@Vyg1
+2025-10-27 10:36:16,489 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 34 : entering the email
+2025-10-27 10:36:16,635 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 36 : entering the password
+2025-10-27 10:36:16,799 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 38 : click on login button
+2025-10-27 10:36:17,977 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 40 : validate login status
+2025-10-27 10:36:18,054 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 67 : taking screenshot
+2025-10-27 10:36:18,179 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 72 : test_CredKart_Login_DDT_004 is pass
+2025-10-27 10:36:18,179 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 73 : test_CredKart_Login_DDT_004 is end
+2025-10-27 10:36:18,180 : INFO : Test_CredLogin_DDT : test_CredKart_Login_DDT_004 : 74 : browser closed
+
+2025-10-27 21:29:05,150 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 17 : test_AddToCartAndCheckout005 is start
+2025-10-27 21:29:05,150 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 18 : opening the browser
+2025-10-27 21:29:05,150 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 21 : click on login link text
+2025-10-27 21:29:06,409 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 23 : enter email address
+2025-10-27 21:29:06,695 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 26 : enter password
+2025-10-27 21:29:06,885 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 29 : click on login button
+2025-10-27 21:29:20,546 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 32 : select the mack laptop as a product
+2025-10-27 21:29:21,652 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 34 : click on add to cart button
+2025-10-27 21:29:21,858 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 36 : click on continue shopping button
+2025-10-27 21:29:24,153 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 38 : select the guitar as a product
+2025-10-27 21:29:24,886 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 40 : click on add to cart button
+2025-10-27 21:29:26,381 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 42 : select the mack laptop product quantity
+2025-10-27 21:29:28,510 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 45 : click on proceed and checkout button
+2025-10-27 21:29:48,838 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 47 : entered first name
+2025-10-27 21:29:49,011 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 49 : entered last name
+2025-10-27 21:29:49,133 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 51 : entered mobile no
+2025-10-27 21:29:49,238 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 53 : entered address
+2025-10-27 21:29:49,428 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 55 : entered zipcode
+2025-10-27 21:29:49,539 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 57 : select state
+2025-10-27 21:29:49,616 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 59 : entered card owner name
+2025-10-27 21:29:49,734 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 61 : enter card cvv
+2025-10-27 21:29:49,861 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 63 : entered card number
+2025-10-27 21:29:50,190 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 68 : select card expire year
+2025-10-27 21:29:50,286 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 70 : select card expire month
+2025-10-27 21:29:50,367 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 72 : click on continue and checkout button
+2025-10-27 21:29:53,798 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 74 : validate checkout done or not
+2025-10-27 21:29:53,894 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 77 : test_AddToCartAndCheckout005 is done
+2025-10-27 21:29:53,894 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 78 : test_AddToCartAndCheckout005 is end
+
+2025-10-27 22:11:01,060 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 17 : test_AddToCartAndCheckout005 is start
+2025-10-27 22:11:01,060 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 18 : opening the browser
+2025-10-27 22:11:01,060 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 21 : click on login link text
+2025-10-27 22:11:02,286 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 23 : enter email address
+2025-10-27 22:11:02,486 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 26 : enter password
+2025-10-27 22:11:02,608 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 29 : click on login button
+2025-10-27 22:11:05,115 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 32 : select the mack laptop as a product
+2025-10-27 22:11:05,927 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 34 : click on add to cart button
+2025-10-27 22:11:07,292 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 36 : click on continue shopping button
+2025-10-27 22:11:08,081 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 38 : select the guitar as a product
+2025-10-27 22:11:08,897 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 40 : click on add to cart button
+2025-10-27 22:11:10,325 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 42 : select the mack laptop product quantity
+2025-10-27 22:11:12,439 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 45 : click on proceed and checkout button
+2025-10-27 22:11:13,968 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 47 : entered first name
+2025-10-27 22:11:14,094 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 49 : entered last name
+2025-10-27 22:11:14,195 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 51 : entered mobile no
+2025-10-27 22:11:14,327 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 53 : entered address
+2025-10-27 22:11:14,563 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 55 : entered zipcode
+2025-10-27 22:11:14,671 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 57 : select state
+2025-10-27 22:11:14,741 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 59 : entered card owner name
+2025-10-27 22:11:14,858 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 61 : enter card cvv
+2025-10-27 22:11:14,976 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 63 : entered card number
+2025-10-27 22:11:15,277 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 68 : select card expire year
+2025-10-27 22:11:15,358 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 70 : select card expire month
+2025-10-27 22:11:15,443 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 72 : click on continue and checkout button
+2025-10-27 22:11:16,876 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 74 : validate checkout done or not
+2025-10-27 22:11:16,965 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 77 : test_AddToCartAndCheckout005 is done
+2025-10-27 22:11:16,965 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 78 : test_AddToCartAndCheckout005 is end
+
+2025-10-27 22:12:04,254 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 17 : test_AddToCartAndCheckout005 is start
+2025-10-27 22:12:04,254 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 18 : opening the browser
+2025-10-27 22:12:04,254 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 21 : click on login link text
+2025-10-27 22:12:05,085 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 23 : enter email address
+2025-10-27 22:12:05,179 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 26 : enter password
+2025-10-27 22:12:05,226 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 29 : click on login button
+2025-10-27 22:12:07,521 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 32 : select the mack laptop as a product
+2025-10-27 22:12:08,208 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 34 : click on add to cart button
+2025-10-27 22:12:09,417 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 36 : click on continue shopping button
+2025-10-27 22:12:10,186 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 38 : select the guitar as a product
+2025-10-27 22:12:10,958 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 40 : click on add to cart button
+2025-10-27 22:12:12,383 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 42 : select the mack laptop product quantity
+2025-10-27 22:12:14,469 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 45 : click on proceed and checkout button
+2025-10-27 22:12:15,533 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 47 : entered first name
+2025-10-27 22:12:15,617 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 49 : entered last name
+2025-10-27 22:12:15,651 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 51 : entered mobile no
+2025-10-27 22:12:15,687 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 53 : entered address
+2025-10-27 22:12:15,747 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 55 : entered zipcode
+2025-10-27 22:12:15,885 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 57 : select state
+2025-10-27 22:12:15,905 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 59 : entered card owner name
+2025-10-27 22:12:15,944 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 61 : enter card cvv
+2025-10-27 22:12:15,973 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 63 : entered card number
+2025-10-27 22:12:16,073 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 68 : select card expire year
+2025-10-27 22:12:16,101 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 70 : select card expire month
+2025-10-27 22:12:16,118 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 72 : click on continue and checkout button
+2025-10-27 22:12:17,416 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 74 : validate checkout done or not
+2025-10-27 22:12:17,462 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 77 : test_AddToCartAndCheckout005 is done
+2025-10-27 22:12:17,462 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 78 : test_AddToCartAndCheckout005 is end
+
+2025-10-27 22:12:39,969 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 17 : test_AddToCartAndCheckout005 is start
+2025-10-27 22:12:39,969 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 18 : opening the browser
+2025-10-27 22:12:39,969 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 21 : click on login link text
+2025-10-27 22:12:40,812 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 23 : enter email address
+2025-10-27 22:12:40,983 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 26 : enter password
+2025-10-27 22:12:41,124 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 29 : click on login button
+2025-10-27 22:12:43,716 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 32 : select the mack laptop as a product
+2025-10-27 22:12:44,525 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 34 : click on add to cart button
+2025-10-27 22:12:45,930 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 36 : click on continue shopping button
+2025-10-27 22:12:46,703 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 38 : select the guitar as a product
+2025-10-27 22:12:47,528 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 40 : click on add to cart button
+2025-10-27 22:12:48,842 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 42 : select the mack laptop product quantity
+2025-10-27 22:12:50,940 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 45 : click on proceed and checkout button
+2025-10-27 22:12:52,395 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 47 : entered first name
+2025-10-27 22:12:52,618 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 49 : entered last name
+2025-10-27 22:12:52,736 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 51 : entered mobile no
+2025-10-27 22:12:52,855 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 53 : entered address
+2025-10-27 22:12:53,030 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 55 : entered zipcode
+2025-10-27 22:12:53,146 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 57 : select state
+2025-10-27 22:12:53,222 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 59 : entered card owner name
+2025-10-27 22:12:53,330 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 61 : enter card cvv
+2025-10-27 22:12:53,444 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 63 : entered card number
+2025-10-27 22:12:53,781 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 68 : select card expire year
+2025-10-27 22:12:53,874 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 70 : select card expire month
+2025-10-27 22:12:53,962 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 72 : click on continue and checkout button
+2025-10-27 22:12:54,071 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 74 : validate checkout done or not
+2025-10-27 22:12:55,426 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 77 : test_AddToCartAndCheckout005 is done
+2025-10-27 22:12:55,426 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 78 : test_AddToCartAndCheckout005 is end

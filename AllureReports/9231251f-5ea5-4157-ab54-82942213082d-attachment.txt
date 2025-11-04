@@ -1,0 +1,40 @@
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:15 test_CredKart_Login_DDT_004 is start
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:16 opening the browser
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:21 row count is-->5
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:24 for loop is start with 2nd row credential
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:32 email is--->rakeshlikhare@gmail.com
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:33 password is--->xcM8c6xQvya@VYg
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:34 entering the email
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:36 entering the password
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:38 click on login button
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:40 validate login status
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:44 taking screenshot
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:46 click on dropdown menu
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:48 click on logout button
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:24 for loop is start with 3nd row credential
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:32 email is--->rakeshlikhare@gmail.com1
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:33 password is--->xcM8c6xQvya@Vyg
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:34 entering the email
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:36 entering the password
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:38 click on login button
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:40 validate login status
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:67 taking screenshot
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:24 for loop is start with 4nd row credential
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:32 email is--->rakeshlikhare@gmail.com
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:33 password is--->xcM8c6xQvya@Vyg1
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:34 entering the email
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:36 entering the password
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:38 click on login button
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:40 validate login status
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:67 taking screenshot
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:24 for loop is start with 5nd row credential
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:32 email is--->rakeshlikhare@gmail.com1
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:33 password is--->xcM8c6xQvya@Vyg1
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:34 entering the email
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:36 entering the password
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:38 click on login button
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:40 validate login status
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:67 taking screenshot
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:72 test_CredKart_Login_DDT_004 is pass
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:73 test_CredKart_Login_DDT_004 is end
+[32mINFO    [0m Test_CredLogin_DDT:CredKart LoginWithDDT_test.py:74 browser closed

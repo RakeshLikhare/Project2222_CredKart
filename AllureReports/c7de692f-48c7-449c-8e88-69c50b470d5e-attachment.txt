@@ -1,0 +1,3 @@
+browser run in chrome
+CredKart login is pass✅
+menu button is present login pass✅
