@@ -385,3 +385,31 @@
 2025-10-27 22:12:54,071 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 74 : validate checkout done or not
 2025-10-27 22:12:55,426 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 77 : test_AddToCartAndCheckout005 is done
 2025-10-27 22:12:55,426 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 78 : test_AddToCartAndCheckout005 is end
+2025-11-04 13:45:56,796 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 17 : test_AddToCartAndCheckout005 is start
+2025-11-04 13:45:56,800 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 18 : opening the browser
+2025-11-04 13:45:56,800 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 21 : click on login link text
+2025-11-04 13:45:57,785 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 23 : enter email address
+2025-11-04 13:45:58,186 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 26 : enter password
+2025-11-04 13:45:58,334 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 29 : click on login button
+2025-11-04 13:46:00,730 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 32 : select the mack laptop as a product
+2025-11-04 13:46:01,449 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 34 : click on add to cart button
+2025-11-04 13:46:02,725 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 36 : click on continue shopping button
+2025-11-04 13:46:03,506 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 38 : select the guitar as a product
+2025-11-04 13:46:04,307 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 40 : click on add to cart button
+2025-11-04 13:46:05,509 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 42 : select the mack laptop product quantity
+2025-11-04 13:46:07,620 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 45 : click on proceed and checkout button
+2025-11-04 13:46:09,226 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 47 : entered first name
+2025-11-04 13:46:09,376 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 49 : entered last name
+2025-11-04 13:46:09,512 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 51 : entered mobile no
+2025-11-04 13:46:09,686 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 53 : entered address
+2025-11-04 13:46:09,871 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 55 : entered zipcode
+2025-11-04 13:46:09,990 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 57 : select state
+2025-11-04 13:46:10,097 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 59 : entered card owner name
+2025-11-04 13:46:10,226 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 61 : enter card cvv
+2025-11-04 13:46:10,345 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 63 : entered card number
+2025-11-04 13:46:10,698 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 68 : select card expire year
+2025-11-04 13:46:10,788 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 70 : select card expire month
+2025-11-04 13:46:10,873 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 72 : click on continue and checkout button
+2025-11-04 13:46:12,283 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 74 : validate checkout done or not
+2025-11-04 13:46:12,370 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 77 : test_AddToCartAndCheckout005 is done
+2025-11-04 13:46:12,370 : INFO : Test_AddToCartAndCheckout : test_AddToCartAndCheckout005 : 78 : test_AddToCartAndCheckout005 is end

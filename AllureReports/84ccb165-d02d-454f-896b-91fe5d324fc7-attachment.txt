@@ -1,0 +1,14 @@
+[32mINFO    [0m Test_CredLogin_params:CredKart LoginWithParams_test.py:11 test_CredKart_Login_params_003 is start
+[32mINFO    [0m Test_CredLogin_params:CredKart LoginWithParams_test.py:12 opening the browser
+[32mINFO    [0m Test_CredLogin_params:CredKart LoginWithParams_test.py:16 email is--->rakeshlikhare@gmail.com
+[32mINFO    [0m Test_CredLogin_params:CredKart LoginWithParams_test.py:17 password is--->xcM8c6xQvya@VYg
+[32mINFO    [0m Test_CredLogin_params:CredKart LoginWithParams_test.py:18 entering the email
+[32mINFO    [0m Test_CredLogin_params:CredKart LoginWithParams_test.py:20 entering the password
+[32mINFO    [0m Test_CredLogin_params:CredKart LoginWithParams_test.py:22 click on login button
+[32mINFO    [0m Test_CredLogin_params:CredKart LoginWithParams_test.py:25 validate login status
+[32mINFO    [0m Test_CredLogin_params:CredKart LoginWithParams_test.py:27 taking screenshot
+[32mINFO    [0m Test_CredLogin_params:CredKart LoginWithParams_test.py:29 click on dropdown menu
+[32mINFO    [0m Test_CredLogin_params:CredKart LoginWithParams_test.py:31 click on logout button
+[32mINFO    [0m Test_CredLogin_params:CredKart LoginWithParams_test.py:34 test_CredKart_Login_params_003 is pass
+[32mINFO    [0m Test_CredLogin_params:CredKart LoginWithParams_test.py:58 test_CredKart_Login_002 is end
+[32mINFO    [0m Test_CredLogin_params:CredKart LoginWithParams_test.py:59 browser closed
