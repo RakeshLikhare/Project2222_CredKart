@@ -1,3 +1,0 @@
-browser run in chrome
-rowcount in our excel file--->5
-CredKart login is pass✅
